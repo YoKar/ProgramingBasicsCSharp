@@ -1,0 +1,5 @@
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\07.SimplCond-SumSeconds\bin\Debug\07.SimplCond-SumSeconds.exe.config
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\07.SimplCond-SumSeconds\bin\Debug\07.SimplCond-SumSeconds.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\07.SimplCond-SumSeconds\bin\Debug\07.SimplCond-SumSeconds.pdb
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\07.SimplCond-SumSeconds\obj\Debug\07.SimplCond-SumSeconds.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\07.SimplCond-SumSeconds\obj\Debug\07.SimplCond-SumSeconds.pdb

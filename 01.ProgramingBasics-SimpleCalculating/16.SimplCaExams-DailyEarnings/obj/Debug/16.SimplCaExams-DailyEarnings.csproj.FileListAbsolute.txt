@@ -1,0 +1,6 @@
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\16.SimplCaExams-DailyEarnings\bin\Debug\16.SimplCaExams-DailyEarnings.exe.config
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\16.SimplCaExams-DailyEarnings\bin\Debug\16.SimplCaExams-DailyEarnings.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\16.SimplCaExams-DailyEarnings\bin\Debug\16.SimplCaExams-DailyEarnings.pdb
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\16.SimplCaExams-DailyEarnings\obj\Debug\16.SimplCaExams-DailyEarnings.csprojResolveAssemblyReference.cache
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\16.SimplCaExams-DailyEarnings\obj\Debug\16.SimplCaExams-DailyEarnings.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\16.SimplCaExams-DailyEarnings\obj\Debug\16.SimplCaExams-DailyEarnings.pdb

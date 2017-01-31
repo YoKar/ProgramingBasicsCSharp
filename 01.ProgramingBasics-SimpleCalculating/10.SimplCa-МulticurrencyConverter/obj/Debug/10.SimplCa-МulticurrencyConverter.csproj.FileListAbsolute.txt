@@ -1,0 +1,6 @@
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\10.SimplCa-МulticurrencyConverter\bin\Debug\10.SimplCa-МulticurrencyConverter.exe.config
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\10.SimplCa-МulticurrencyConverter\bin\Debug\10.SimplCa-МulticurrencyConverter.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\10.SimplCa-МulticurrencyConverter\bin\Debug\10.SimplCa-МulticurrencyConverter.pdb
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\10.SimplCa-МulticurrencyConverter\obj\Debug\10.SimplCa-МulticurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\10.SimplCa-МulticurrencyConverter\obj\Debug\10.SimplCa-МulticurrencyConverter.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\10.SimplCa-МulticurrencyConverter\obj\Debug\10.SimplCa-МulticurrencyConverter.pdb

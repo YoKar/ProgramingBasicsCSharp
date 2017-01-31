@@ -1,0 +1,6 @@
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\08.SimplCond-MetricConverter\bin\Debug\08.SimplCond-MetricConverter.exe.config
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\08.SimplCond-MetricConverter\bin\Debug\08.SimplCond-MetricConverter.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\08.SimplCond-MetricConverter\bin\Debug\08.SimplCond-MetricConverter.pdb
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\08.SimplCond-MetricConverter\obj\Debug\08.SimplCond-MetricConverter.csprojResolveAssemblyReference.cache
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\08.SimplCond-MetricConverter\obj\Debug\08.SimplCond-MetricConverter.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\08.SimplCond-MetricConverter\obj\Debug\08.SimplCond-MetricConverter.pdb
