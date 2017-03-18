@@ -1,0 +1,5 @@
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\SmplCa-TrapezeArea\bin\Debug\SmplCa-TrapezeArea.exe.config
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\SmplCa-TrapezeArea\bin\Debug\SmplCa-TrapezeArea.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\SmplCa-TrapezeArea\bin\Debug\SmplCa-TrapezeArea.pdb
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\SmplCa-TrapezeArea\obj\Debug\SmplCa-TrapezeArea.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\SmplCa-TrapezeArea\obj\Debug\SmplCa-TrapezeArea.pdb

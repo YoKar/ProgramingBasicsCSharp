@@ -1,0 +1,6 @@
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\11.SimplCa-1000daysOnEarth\bin\Debug\11.SimplCa-1000daysOnEarth.exe.config
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\11.SimplCa-1000daysOnEarth\bin\Debug\11.SimplCa-1000daysOnEarth.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\11.SimplCa-1000daysOnEarth\bin\Debug\11.SimplCa-1000daysOnEarth.pdb
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\11.SimplCa-1000daysOnEarth\obj\Debug\11.SimplCa-1000daysOnEarth.csprojResolveAssemblyReference.cache
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\11.SimplCa-1000daysOnEarth\obj\Debug\11.SimplCa-1000daysOnEarth.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\11.SimplCa-1000daysOnEarth\obj\Debug\11.SimplCa-1000daysOnEarth.pdb

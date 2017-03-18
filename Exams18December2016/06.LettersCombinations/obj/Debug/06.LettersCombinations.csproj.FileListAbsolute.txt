@@ -1,0 +1,6 @@
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\06.LettersCombinations\bin\Debug\06.LettersCombinations.exe.config
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\06.LettersCombinations\bin\Debug\06.LettersCombinations.exe
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\06.LettersCombinations\bin\Debug\06.LettersCombinations.pdb
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.csprojResolveAssemblyReference.cache
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.exe
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\06.LettersCombinations\obj\Debug\06.LettersCombinations.pdb

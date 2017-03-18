@@ -1,0 +1,5 @@
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\05.SoftUniLogo\bin\Debug\05.SoftUniLogo.exe.config
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\05.SoftUniLogo\bin\Debug\05.SoftUniLogo.exe
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\05.SoftUniLogo\bin\Debug\05.SoftUniLogo.pdb
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\05.SoftUniLogo\obj\Debug\05.SoftUniLogo.exe
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\05.SoftUniLogo\obj\Debug\05.SoftUniLogo.pdb

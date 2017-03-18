@@ -1,0 +1,6 @@
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\04.Grades\bin\Debug\04.Grades.exe.config
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\04.Grades\bin\Debug\04.Grades.exe
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\04.Grades\bin\Debug\04.Grades.pdb
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\04.Grades\obj\Debug\04.Grades.csprojResolveAssemblyReference.cache
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\04.Grades\obj\Debug\04.Grades.exe
+C:\Users\Joreto\documents\visual studio 2017\Projects\Exams18December2016\04.Grades\obj\Debug\04.Grades.pdb

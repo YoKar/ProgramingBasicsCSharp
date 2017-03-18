@@ -1,0 +1,6 @@
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\16.SimplCond-NumbersFrom0To100Words\bin\Debug\16.SimplCond-NumbersFrom0To100Words.exe.config
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\16.SimplCond-NumbersFrom0To100Words\bin\Debug\16.SimplCond-NumbersFrom0To100Words.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\16.SimplCond-NumbersFrom0To100Words\bin\Debug\16.SimplCond-NumbersFrom0To100Words.pdb
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\16.SimplCond-NumbersFrom0To100Words\obj\Debug\16.SimplCond-NumbersFrom0To100Words.csprojResolveAssemblyReference.cache
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\16.SimplCond-NumbersFrom0To100Words\obj\Debug\16.SimplCond-NumbersFrom0To100Words.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\16.SimplCond-NumbersFrom0To100Words\obj\Debug\16.SimplCond-NumbersFrom0To100Words.pdb

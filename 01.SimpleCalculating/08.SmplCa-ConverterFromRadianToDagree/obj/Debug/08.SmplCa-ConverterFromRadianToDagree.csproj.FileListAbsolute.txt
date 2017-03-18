@@ -1,0 +1,6 @@
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\08.SmplCa-ConverterFromRadianToDagree\bin\Debug\08.SmplCa-ConverterFromRadianToDagree.exe.config
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\08.SmplCa-ConverterFromRadianToDagree\bin\Debug\08.SmplCa-ConverterFromRadianToDagree.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\08.SmplCa-ConverterFromRadianToDagree\bin\Debug\08.SmplCa-ConverterFromRadianToDagree.pdb
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\08.SmplCa-ConverterFromRadianToDagree\obj\Debug\08.SmplCa-ConverterFromRadianToDagree.csprojResolveAssemblyReference.cache
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\08.SmplCa-ConverterFromRadianToDagree\obj\Debug\08.SmplCa-ConverterFromRadianToDagree.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\08.SmplCa-ConverterFromRadianToDagree\obj\Debug\08.SmplCa-ConverterFromRadianToDagree.pdb

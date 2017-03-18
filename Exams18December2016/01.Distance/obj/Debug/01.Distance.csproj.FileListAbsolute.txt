@@ -1,0 +1,6 @@
+c:\users\joreto\documents\visual studio 2017\Projects\Exams18December2016\01.Distance\bin\Debug\01.Distance.exe.config
+c:\users\joreto\documents\visual studio 2017\Projects\Exams18December2016\01.Distance\bin\Debug\01.Distance.exe
+c:\users\joreto\documents\visual studio 2017\Projects\Exams18December2016\01.Distance\bin\Debug\01.Distance.pdb
+c:\users\joreto\documents\visual studio 2017\Projects\Exams18December2016\01.Distance\obj\Debug\01.Distance.csprojResolveAssemblyReference.cache
+c:\users\joreto\documents\visual studio 2017\Projects\Exams18December2016\01.Distance\obj\Debug\01.Distance.exe
+c:\users\joreto\documents\visual studio 2017\Projects\Exams18December2016\01.Distance\obj\Debug\01.Distance.pdb

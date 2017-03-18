@@ -1,0 +1,6 @@
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\06.SimplCond-BonusPoints\bin\Debug\06.SimplCond-BonusPoints.exe.config
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\06.SimplCond-BonusPoints\bin\Debug\06.SimplCond-BonusPoints.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\06.SimplCond-BonusPoints\bin\Debug\06.SimplCond-BonusPoints.pdb
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\06.SimplCond-BonusPoints\obj\Debug\06.SimplCond-BonusPoints.csprojResolveAssemblyReference.cache
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\06.SimplCond-BonusPoints\obj\Debug\06.SimplCond-BonusPoints.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\06.SimplCond-BonusPoints\obj\Debug\06.SimplCond-BonusPoints.pdb

@@ -1,0 +1,5 @@
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\02 .WorkHours\bin\Debug\_02.WorkHours.exe.config
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\02 .WorkHours\bin\Debug\_02.WorkHours.exe
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\02 .WorkHours\bin\Debug\_02.WorkHours.pdb
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\02 .WorkHours\obj\Debug\_02.WorkHours.exe
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\02 .WorkHours\obj\Debug\_02.WorkHours.pdb

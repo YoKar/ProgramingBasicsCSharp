@@ -1,0 +1,6 @@
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\ProgramingBasics\bin\Debug\ProgramingBasics.exe.config
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\ProgramingBasics\bin\Debug\ProgramingBasics.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\ProgramingBasics\bin\Debug\ProgramingBasics.pdb
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\ProgramingBasics\obj\Debug\SimpleCalculating.csprojResolveAssemblyReference.cache
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\ProgramingBasics\obj\Debug\ProgramingBasics.exe
+C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\ProgramingBasics\obj\Debug\ProgramingBasics.pdb

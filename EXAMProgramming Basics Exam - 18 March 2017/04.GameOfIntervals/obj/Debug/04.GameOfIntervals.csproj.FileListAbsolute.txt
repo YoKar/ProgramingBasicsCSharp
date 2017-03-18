@@ -1,0 +1,6 @@
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\04.GameOfIntervals\bin\Debug\04.GameOfIntervals.exe.config
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\04.GameOfIntervals\bin\Debug\04.GameOfIntervals.exe
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\04.GameOfIntervals\bin\Debug\04.GameOfIntervals.pdb
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\04.GameOfIntervals\obj\Debug\04.GameOfIntervals.csprojResolveAssemblyReference.cache
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\04.GameOfIntervals\obj\Debug\04.GameOfIntervals.exe
+C:\Users\Joreto\Desktop\VS\ProgramingBasics\ProgramingBasicsCSharp\Programming Basics Exam - 18 March 2017\04.GameOfIntervals\obj\Debug\04.GameOfIntervals.pdb
