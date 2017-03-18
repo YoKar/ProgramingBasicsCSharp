@@ -1,5 +1,0 @@
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\15.SimpleCaExams-Money\bin\Debug\15.SimpleCaExams-Money.exe.config
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\15.SimpleCaExams-Money\bin\Debug\15.SimpleCaExams-Money.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\15.SimpleCaExams-Money\bin\Debug\15.SimpleCaExams-Money.pdb
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\15.SimpleCaExams-Money\obj\Debug\15.SimpleCaExams-Money.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\15.SimpleCaExams-Money\obj\Debug\15.SimpleCaExams-Money.pdb

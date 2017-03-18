@@ -1,5 +1,0 @@
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\09.SimplCa-ConverterFromUSDtoBGN\bin\Debug\09.SimplCa-ConverterFromUSDtoBGN.exe.config
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\09.SimplCa-ConverterFromUSDtoBGN\bin\Debug\09.SimplCa-ConverterFromUSDtoBGN.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\09.SimplCa-ConverterFromUSDtoBGN\bin\Debug\09.SimplCa-ConverterFromUSDtoBGN.pdb
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\09.SimplCa-ConverterFromUSDtoBGN\obj\Debug\09.SimplCa-ConverterFromUSDtoBGN.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\09.SimplCa-ConverterFromUSDtoBGN\obj\Debug\09.SimplCa-ConverterFromUSDtoBGN.pdb

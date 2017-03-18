@@ -1,6 +1,0 @@
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\14.SimplCaExams-RepairOfTile\bin\Debug\14.SimplCaExams-RepairOfTile.exe.config
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\14.SimplCaExams-RepairOfTile\bin\Debug\14.SimplCaExams-RepairOfTile.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\14.SimplCaExams-RepairOfTile\bin\Debug\14.SimplCaExams-RepairOfTile.pdb
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\14.SimplCaExams-RepairOfTile\obj\Debug\14.SimplCaExams-RepairOfTile.csprojResolveAssemblyReference.cache
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\14.SimplCaExams-RepairOfTile\obj\Debug\14.SimplCaExams-RepairOfTile.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\14.SimplCaExams-RepairOfTile\obj\Debug\14.SimplCaExams-RepairOfTile.pdb

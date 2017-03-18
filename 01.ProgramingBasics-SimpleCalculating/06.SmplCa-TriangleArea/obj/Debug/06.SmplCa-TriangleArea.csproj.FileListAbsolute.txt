@@ -1,5 +1,0 @@
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\06.SmplCa-TriangleArea\bin\Debug\06.SmplCa-TriangleArea.exe.config
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\06.SmplCa-TriangleArea\bin\Debug\06.SmplCa-TriangleArea.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\06.SmplCa-TriangleArea\bin\Debug\06.SmplCa-TriangleArea.pdb
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\06.SmplCa-TriangleArea\obj\Debug\06.SmplCa-TriangleArea.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\06.SmplCa-TriangleArea\obj\Debug\06.SmplCa-TriangleArea.pdb

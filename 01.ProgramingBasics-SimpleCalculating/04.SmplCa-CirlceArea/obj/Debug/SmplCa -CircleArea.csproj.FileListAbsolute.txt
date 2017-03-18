@@ -1,1 +1,0 @@
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\SmplCa -CircleArea\bin\Debug\SmplCa -CircleArea.exe.config

@@ -1,5 +1,0 @@
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\17.SimplCondExams-PriceForTransporte\bin\Debug\17.SimplCondExams-PriceForTransporte.exe.config
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\17.SimplCondExams-PriceForTransporte\bin\Debug\17.SimplCondExams-PriceForTransporte.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\17.SimplCondExams-PriceForTransporte\bin\Debug\17.SimplCondExams-PriceForTransporte.pdb
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\17.SimplCondExams-PriceForTransporte\obj\Debug\17.SimplCondExams-PriceForTransporte.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\17.SimplCondExams-PriceForTransporte\obj\Debug\17.SimplCondExams-PriceForTransporte.pdb

@@ -1,6 +1,0 @@
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\14.SimplCond-Time+15Minutes\bin\Debug\14.SimplCond-Time+15Minutes.exe.config
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\14.SimplCond-Time+15Minutes\bin\Debug\14.SimplCond-Time+15Minutes.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\14.SimplCond-Time+15Minutes\bin\Debug\14.SimplCond-Time+15Minutes.pdb
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\14.SimplCond-Time+15Minutes\obj\Debug\14.SimplCond-Time+15Minutes.csprojResolveAssemblyReference.cache
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\14.SimplCond-Time+15Minutes\obj\Debug\14.SimplCond-Time+15Minutes.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\14.SimplCond-Time+15Minutes\obj\Debug\14.SimplCond-Time+15Minutes.pdb

@@ -1,5 +1,0 @@
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\07.SmplCa-CalculatorFromCelceeToFarenhy\bin\Debug\07.SmplCa-CalculatorFromCelceeToFarenhy.exe.config
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\07.SmplCa-CalculatorFromCelceeToFarenhy\bin\Debug\07.SmplCa-CalculatorFromCelceeToFarenhy.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\07.SmplCa-CalculatorFromCelceeToFarenhy\bin\Debug\07.SmplCa-CalculatorFromCelceeToFarenhy.pdb
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\07.SmplCa-CalculatorFromCelceeToFarenhy\obj\Debug\07.SmplCa-CalculatorFromCelceeToFarenhy.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\07.SmplCa-CalculatorFromCelceeToFarenhy\obj\Debug\07.SmplCa-CalculatorFromCelceeToFarenhy.pdb

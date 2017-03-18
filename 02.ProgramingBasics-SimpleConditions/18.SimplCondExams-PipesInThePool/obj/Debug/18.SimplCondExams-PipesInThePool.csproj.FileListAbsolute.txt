@@ -1,5 +1,0 @@
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\18.SimplCondExams-PipesInThePool\bin\Debug\18.SimplCondExams-PipesInThePool.exe.config
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\18.SimplCondExams-PipesInThePool\bin\Debug\18.SimplCondExams-PipesInThePool.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\18.SimplCondExams-PipesInThePool\bin\Debug\18.SimplCondExams-PipesInThePool.pdb
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\18.SimplCondExams-PipesInThePool\obj\Debug\18.SimplCondExams-PipesInThePool.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\18.SimplCondExams-PipesInThePool\obj\Debug\18.SimplCondExams-PipesInThePool.pdb

@@ -1,5 +1,0 @@
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\02.SimplCond-ExcellentGradeOrNot\bin\Debug\02.SimplCond-ExcellentGradeOrNot.exe.config
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\02.SimplCond-ExcellentGradeOrNot\bin\Debug\02.SimplCond-ExcellentGradeOrNot.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\02.SimplCond-ExcellentGradeOrNot\bin\Debug\02.SimplCond-ExcellentGradeOrNot.pdb
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\02.SimplCond-ExcellentGradeOrNot\obj\Debug\02.SimplCond-ExcellentGradeOrNot.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics-SimpleConditions\02.SimplCond-ExcellentGradeOrNot\obj\Debug\02.SimplCond-ExcellentGradeOrNot.pdb

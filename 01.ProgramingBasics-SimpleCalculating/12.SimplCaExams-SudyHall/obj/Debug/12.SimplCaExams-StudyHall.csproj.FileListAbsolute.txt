@@ -1,6 +1,0 @@
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\12.SimplCaExams-SudyHall\bin\Debug\12.SimplCaExams-SudyHall.exe.config
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\12.SimplCaExams-SudyHall\bin\Debug\12.SimplCaExams-SudyHall.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\12.SimplCaExams-SudyHall\bin\Debug\12.SimplCaExams-SudyHall.pdb
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\12.SimplCaExams-SudyHall\obj\Debug\12.SimplCaExams-StudyHall.csprojResolveAssemblyReference.cache
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\12.SimplCaExams-SudyHall\obj\Debug\12.SimplCaExams-SudyHall.exe
-C:\Users\Йорето\Documents\Visual Studio 2015\Projects\ProgramingBasics\12.SimplCaExams-SudyHall\obj\Debug\12.SimplCaExams-SudyHall.pdb
